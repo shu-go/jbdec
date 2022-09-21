@@ -36,8 +36,6 @@ const (
 
 	EOF   = Type(0x00)
 	Error = Type(0xFF)
-
-	escape = '\\'
 )
 
 func New(b []byte) *Decoder {
