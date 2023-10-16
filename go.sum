@@ -1,4 +1,2 @@
-github.com/pkg/json v0.0.0-20210215194713-15368085e6e1 h1:ghtKsg5L+OJlr6+QdGcOC2DUfWeZAYHyggn3g8ARebY=
-github.com/pkg/json v0.0.0-20210215194713-15368085e6e1/go.mod h1:U07ZSeMn5J2Kcj2Y6IDEARE2SexxlyRMv9VP+w3s2iA=
 github.com/shu-go/gotwant v0.0.0-20190920074605-b4f19c0bac91 h1:nwDc3kHbf9scf1UZIWiWw5tZF3Z4yOJAMjNN+kYXJwE=
 github.com/shu-go/gotwant v0.0.0-20190920074605-b4f19c0bac91/go.mod h1:FZepfqvib0mXjHiaQPTv0RUD5QMpMA/FHLfBQjZRRQg=
